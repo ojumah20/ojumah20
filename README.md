@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning robotics
 - 💞️ I’m looking to collaborate on ML related projects
 - 📫 How to reach me via linkedin (www.linkedin.com/in/ 
-onyekachukwu-ojumah) and email me onyekaojumah22@gmail.com
+onyekachukwu-ojumah) or send an email to onyekaojumah22@gmail.com.
+I am happy to collaborate
 
 
 <!---
